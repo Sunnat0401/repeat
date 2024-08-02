@@ -1,6 +1,6 @@
 // pages/index.tsx yoki pages/home.tsx
 // import { About, Directions, Footer, Help, Navbar, Species } from '@/components';
-import { Navbar } from '@/components';
+import { About, Directions, Footer, Navbar, Species } from '@/components';
 import Help from '@/components/help/help';
 import Head from 'next/head';
 
@@ -12,10 +12,10 @@ const Home: React.FC = () => {
       </Head>
       <Navbar />
       <Help/>
-      {/* <Help />
-      <Species />
+      <Species/>
       <About/>
-      <Directions/> */}
+      <Directions/>
+      <Footer/>
     </div>
   );
 };
