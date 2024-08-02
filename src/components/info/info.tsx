@@ -15,21 +15,21 @@ const Info = () => {
                             Istanbul: Asrlar Kesisgan Abadiy Shahar
                         </h4>
                         <p className={styles.info_paragraph}>
-                            Istanbulga xush kelibsiz – Sharq va G&#39;arb kesisadigan, sehr va tarixiy
+                            Istanbulga xush kelibsiz – Sharq va Garb kesisadigan, sehr va tarixiy
                             atmosfera yaratgan shahar.Siz Sultonahmetning jozibali dunyosiga
-                            sho&#39;ng&#39;ishingiz, u yerda tor ko&#39;chalar sizni buyuk Ko&#39;k masjid va Aya Sofiyaga
+                            shongishingiz, u yerda tor kochalar sizni buyuk Kok masjid va Aya Sofiyaga
                             olib boradi
                         </p>
                         <p className={styles.info_text}>
-                            Sultonahmet bo&#39;ylab sayohat sizni Vizantiya va Usmoniy
-                            imperiyasining uzoq davrlariga olib boradi.  Shahar ramzi bo&#39;lgan Topqapi
+                            Sultonahmet boylab sayohat sizni Vizantiya va Usmoniy
+                            imperiyasining uzoq davrlariga olib boradi.  Shahar ramzi bolgan Topqapi
                             saroyi, Usmoniy sultonlarining rezidensiyasi, sizni boylik va haremning
-                            intrigalariga cho&#39;mdiradi.
+                            intrigalariga chomdiradi.
                         </p>
                         <p className={styles.info_subtext}>
-                            Mashhur Katta Bozor bo&#39;ylab yuring, bu yerda siz noyob suvenirlar, ziravorlar
-                            va antikvar buyumlarni topasiz. Bosfor bo&#39;yidagi ajoyib manzaralardan
-                            bahramand bo&#39;ling va Istanbulning ruhini his eting. Turni Dolmabahche
+                            Mashhur Katta Bozor boylab yuring, bu yerda siz noyob suvenirlar, ziravorlar
+                            va antikvar buyumlarni topasiz. Bosfor boyidagi ajoyib manzaralardan
+                            bahramand boling va Istanbulning ruhini his eting. Turni Dolmabahche
                             saroyi, Usmoniy davrining boylik va nafislik ramzi, bilan yakunlang
                         </p>
                     </div>

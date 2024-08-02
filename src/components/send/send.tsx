@@ -62,7 +62,7 @@ const Send = () => {
           <div className={styles.modal_background} onClick={handleCloseModal}></div>
           <div className={styles.modal_content}>
             <div className={styles.modal_title}>
-              Iltimos, operatorlarimiz siz bilan bog'lanishi uchun aloqa ma'lumotlaringizni qoldiring.
+              Iltimos, operatorlarimiz siz bilan boglanishi uchun aloqa malumotlaringizni qoldiring.
             </div>
             <form onSubmit={handleSubmit}>
               <div className={styles.modal_form_item}>
